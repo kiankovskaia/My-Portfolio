@@ -19,6 +19,7 @@ body {
     color: #db7093;
     font-family: "arial", "times new roman";
     font-size: 20px;
+  
   }
   
   header div ul {
@@ -122,4 +123,10 @@ a:hover{
 .ml3 {
   font-weight: 900;
   font-size: 3.5em;
+}
+
+
+.big-icons{
+  font-size:50px;
+  margin:20px;
 }
