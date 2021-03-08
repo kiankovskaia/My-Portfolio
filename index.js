@@ -16,3 +16,10 @@ anime.timeline({loop: true})
     easing: "easeOutExpo",
     delay: 1000
   });
+
+
+  // portfolio images
+
+  $(".img-fluid").addClass("wow fadeIn z-depth-1-half");
+
+  new WOW().init();
